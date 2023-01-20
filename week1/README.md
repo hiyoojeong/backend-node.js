@@ -10,7 +10,7 @@
 브라우저   
 <img src="../image/week1/2-1.png" width="400">   
 
-**3. v1/cookie로 get 요청을 보내면, 쿠키 정보가 json 형식으로 출력된다.**
+**3. v1/cookie로 get 요청을 보내면, 쿠키 정보가 json 형식으로 출력된다.**   
 <img src="../image/week1/3.png" width="400">   
 
 **4. v1/cookie/login로 post 요청을 보난다.**   
