@@ -55,7 +55,7 @@ exports.exif = (req, res) => {
         includeUnknown: true
     });
     res.status(200).json({
-        status:200,
+        status: "ok",
         body: {
             "Make": tags.exif.Make.description,
             "latitude": tags.exif.GPSLatitude.description,
