@@ -30,6 +30,7 @@ path 경로에 있는 yaml 파일을 읽은 뒤, json으로 response한다.
 **5. exif**   
 v1/files/exif로 post 요청을 보낸다.   
 path 경로에 있는 exif 파일을 읽은 뒤, json으로 response한다.   
+생성일자, 위도, 경도만 출력한다.   
 >npm install exifreader  
 
 <img src="../image/week3/5.png" width="600">   
